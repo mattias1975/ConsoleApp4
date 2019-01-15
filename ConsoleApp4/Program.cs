@@ -46,6 +46,7 @@ namespace ConsoleApp4
                     Console.WriteLine("that is not a valid assigment number ");
                     Console.ResetColor();
                 }
+                Console.WriteLine("New commit added");
             }
         
     
